@@ -28,7 +28,6 @@
 - Serilog setup for console and file logging
 - .Net 6
 - striving to have 'Magic numbers' removed from code for better overall clarity
-- 
 
 ## How to make this code base production ready?
 
